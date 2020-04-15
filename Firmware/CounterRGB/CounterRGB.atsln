@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "CounterRGB", "CounterRGB\CounterRGB.cproj", "{40E049A6-2CC9-4263-8E81-A3DD3594E106}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40E049A6-2CC9-4263-8E81-A3DD3594E106}.Debug|AVR.ActiveCfg = Debug|AVR
+		{40E049A6-2CC9-4263-8E81-A3DD3594E106}.Debug|AVR.Build.0 = Debug|AVR
+		{40E049A6-2CC9-4263-8E81-A3DD3594E106}.Release|AVR.ActiveCfg = Release|AVR
+		{40E049A6-2CC9-4263-8E81-A3DD3594E106}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
